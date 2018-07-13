@@ -1,0 +1,8 @@
+{
+  "name": "Recommemded",
+  "description": "Recommemded 7-11's menu.",
+  "repository": "https://github.com/axuceuje/menu-7-11-bot",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
